@@ -1,0 +1,1 @@
+The very basic demo of django
